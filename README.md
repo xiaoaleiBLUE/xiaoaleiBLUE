@@ -1,5 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&theme=dracula&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
 </a>
+![](https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&show_icons=true&theme=dark&count_private=true)
+
 
 ## 作为AI-EI Developer，很高兴遇见你 👋
 
