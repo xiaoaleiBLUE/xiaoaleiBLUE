@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE&theme=dark&layout=compact) 
 ![](https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&show_icons=true&theme=dark&count_private=true)
 </a>
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&count_private=true&show_icons=true" height=145/></span>]
 
 
 
