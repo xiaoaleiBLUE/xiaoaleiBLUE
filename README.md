@@ -8,7 +8,7 @@
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&count_private=true&show_icons=true" height=145/></span>
 
-![](https://activity-graph.herokuapp.com/graph?username=xiaoaleiBLUE&theme=githubE&layout=compact)
+<h2 align='center'><i><a href="https://github.com/xiaoaleiBLUE/github-readme-activity-graph">Activity Graph 📈</i></h2>
 
 
 
