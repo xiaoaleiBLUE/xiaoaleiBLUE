@@ -9,6 +9,5 @@
 - 🍬 期待和喜欢的人周末一起自驾游
 - 🥩 喜欢美食，也喜欢运动
 - 📚 我的CSDN博客（CSDN Blog） https://blog.csdn.net/m0_60890175?type=blog
-- 
-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE-lab&theme=dark&layout=compact)
+
 
