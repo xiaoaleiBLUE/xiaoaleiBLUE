@@ -12,7 +12,8 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE&theme=dark&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE&theme=dark&layout=compact) ![](https://stats.justsong.cn/api/csdn?id=小啊磊_Vv&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&show_icons=true&theme=dark&count_private=true)
 </a>
 
 
