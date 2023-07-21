@@ -9,12 +9,10 @@
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
 <a href="https://blog.csdn.net/m0_60890175?type=blog"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 </p>
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE&theme=dark&layout=compact) ![](https://stats.justsong.cn/api/csdn?id=小啊磊_Vv&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE&theme=dark&layout=compact) 
 ![](https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&show_icons=true&theme=dark&count_private=true)
 </a>
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoaleiBLUE&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=xiaoaleiBLUE&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
 
 
 
