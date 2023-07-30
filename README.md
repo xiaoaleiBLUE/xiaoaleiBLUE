@@ -13,5 +13,5 @@
 <a href="https://github.com/xiaoaleiBLUE/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoaleiBLUE&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 
-![](assets/Bottom_down.svg)
+
 
